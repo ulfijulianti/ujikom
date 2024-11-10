@@ -3,7 +3,7 @@
 
 @section('content')
 <section class="container mx-auto py-16">
-    <h2 class="text-3xl font-bold text-center mb-8">{{ $galery->judul }}</h2>
+    <h2 class="text-3xl font-bold text-center mb-8">{{ $galery->judul }}</h2>git init
     <p class="text-lg text-center text-gray-700 mb-8">{{ $galery->deskripsi }}</p>
     
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
